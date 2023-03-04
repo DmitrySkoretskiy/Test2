@@ -5,5 +5,5 @@ def minus(a,b):
     return a-b
 
 if __name__ == '__main__':
-    print(plus(2,3))
+    print(plus(1,1))
     print(minus(3, 3))
